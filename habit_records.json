@@ -1,0 +1,44 @@
+[
+    {
+        "habit": "screen time",
+        "value": 1.0,
+        "target": 4.0,
+        "completed": 0,
+        "date": "2026-11-07"
+    },
+    {
+        "habit": "excercise",
+        "value": 1.0,
+        "target": 1.0,
+        "completed": 1,
+        "date": "2026-11-07"
+    },
+    {
+        "habit": "studying",
+        "value": 2.0,
+        "target": 3.0,
+        "completed": 0,
+        "date": "2026-11-07"
+    },
+    {
+        "habit": "screen time",
+        "value": 1.0,
+        "target": 4.0,
+        "completed": 0,
+        "date": "2026-11-07"
+    },
+    {
+        "habit": "drinking water",
+        "value": 2.0,
+        "target": 4.0,
+        "completed": 0,
+        "date": "2026-11-07"
+    },
+    {
+        "habit": "running",
+        "value": 5.0,
+        "target": 5.0,
+        "completed": 1,
+        "date": "2026-11-07"
+    }
+]

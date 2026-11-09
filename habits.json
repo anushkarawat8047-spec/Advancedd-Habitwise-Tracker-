@@ -1,0 +1,17 @@
+[
+    {
+        "name": "drinking water",
+        "target": 4.0,
+        "unit": ""
+    },
+    {
+        "name": "running",
+        "target": 5.0,
+        "unit": "km"
+    },
+    {
+        "name": "excercise",
+        "target": 2.0,
+        "unit": "hours"
+    }
+]
